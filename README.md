@@ -119,6 +119,7 @@ root_agent = Agent(
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [Cloud Ops Multi Agent System]([https://github.com/anantkabi/airflow_postgress_connectivity_win_docker](https://github.com/anantkabi/cap_project/tree/main)) | Multi Agents system which will check and recommend suitable solutions for Data Engineering, Cloud Operations and SRE related issues from GitHub issues | `Google ADK` `Python` `GitHub MCP` `Google MCP Toolset` `Google Developer Knowledge` |
 | [Apache Airflow + PostgreSQL Integration (Windows Docker)](https://github.com/anantkabi/airflow_postgress_connectivity_win_docker) | This repository demonstrates how to set up Apache Airflow using Docker on Windows, and run a DAG that connects to a PostgreSQL database to insert data. | `Apache Airflow` `Python` `PostgresSQL` `WindowsDocker` |
 | [Google ADK Demo pipeline](https://github.com/anantkabi/Google_adk_open_ai_agentic_demo) | Demo Agent using Google ADK and Open AI | `ADK` `OpenAI` `Agentic AI` |
 | [Multi Agent Enterprise Job Copilot](https://github.com/anantkabi/enterprise_job_copilot) | Multi Agent Job search engine for personalized job searching | `ADK` `Python` `Agentic AI` `MCP Integration` |
