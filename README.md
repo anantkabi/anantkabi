@@ -36,7 +36,7 @@ root_agent = Agent(
 
 <!-- Cloud -->
 <img src="https://img.shields.io/badge/☁️%20Cloud-000000?style=for-the-badge&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
@@ -48,7 +48,7 @@ root_agent = Agent(
 
 <!-- AI & Agentic AI -->
 <img src="https://img.shields.io/badge/🤖%20AI%20%26%20Agentic%20AI-000000?style=for-the-badge&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-0B0F19?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
