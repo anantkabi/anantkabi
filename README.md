@@ -43,7 +43,7 @@ root_agent = Agent(
 <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Composer-4285F4?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
+<br>
 <br>
 
 <!-- AI & Agentic AI -->
@@ -55,7 +55,7 @@ root_agent = Agent(
 <img src="https://img.shields.io/badge/MCP-0B0F19?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
 <img src="https://img.shields.io/badge/Agent%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Agent%20Development%20Kit-34A853?style=for-the-badge&logo=google&logoColor=white"/>
-
+<br>
 <br>
 
 <!-- Data Engineering -->
@@ -68,7 +68,7 @@ root_agent = Agent(
 <img src="https://img.shields.io/badge/DataStage-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adverity-1E1E1E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Control--M-005EB8?style=for-the-badge&logo=bmcsoftware&logoColor=white"/>
-
+<br>
 <br>
 
 <!-- Programming -->
@@ -79,7 +79,7 @@ root_agent = Agent(
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
+<br>
 <br>
 
 <!-- Databases -->
@@ -89,7 +89,7 @@ root_agent = Agent(
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Teradata-F37421?style=for-the-badge&logo=teradata&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
+<br>
 <br>
 
 <!-- Libraries -->
@@ -97,7 +97,7 @@ root_agent = Agent(
 <br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
+<br>
 <br>
 
 <!-- DevOps & Tools -->
@@ -108,7 +108,7 @@ root_agent = Agent(
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
+<br>
 <br>
 
 </div>
