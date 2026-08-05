@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="35%" stop-color="#1E1B4B"/>
+      <stop offset="70%" stop-color="#0F766E"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+
+    <linearGradient id="pipe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#67E8F9"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+
+    <style><![CDATA[
+      .packet { animation: flow 8s linear infinite; }
+      @keyframes flow {
+        from { transform: translateX(0px); }
+        to   { transform: translateX(1200px); }
+      }
+    ]]></style>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <rect width="1600" height="500" fill="url(#grid)"/>
+
+  <g opacity="0.18" stroke="#67E8F9" stroke-width="1.5">
+    <line x1="200" y1="90" x2="320" y2="140"/>
+    <line x1="320" y1="140" x2="460" y2="80"/>
+    <line x1="1180" y1="120" x2="1340" y2="180"/>
+    <circle cx="200" cy="90" r="5"/>
+    <circle cx="320" cy="140" r="5"/>
+    <circle cx="460" cy="80" r="5"/>
+    <circle cx="1180" cy="120" r="5"/>
+    <circle cx="1340" cy="180" r="5"/>
+  </g>
+
+  <path d="M120 370H1480" stroke="url(#pipe)" stroke-width="6" stroke-linecap="round"/>
+
+  <g fill="#10B981">
+    <circle cx="180" cy="370" r="8"/>
+    <circle cx="420" cy="370" r="8"/>
+    <circle cx="660" cy="370" r="8"/>
+    <circle cx="900" cy="370" r="8"/>
+    <circle cx="1140" cy="370" r="8"/>
+    <circle cx="1380" cy="370" r="8"/>
+  </g>
+
+  <g font-family="Segoe UI" font-size="15" fill="#D1FAE5">
+    <text x="145" y="402">Sources</text>
+    <text x="388" y="402">Airflow</text>
+    <text x="640" y="402">dbt</text>
+    <text x="865" y="402">Databricks</text>
+    <text x="1080" y="402">BigQuery</text>
+    <text x="1320" y="402">Vertex AI</text>
+  </g>
+
+  <circle class="packet" cx="180" cy="370" r="5" fill="#FFFFFF" filter="url(#glow)"/>
+
+  <rect x="70" y="70" width="260" height="170" rx="18" fill="#08111f" fill-opacity="0.45" stroke="#10B981" stroke-opacity="0.35"/>
+  <text x="95" y="105" font-family="Consolas" font-size="20" fill="#10B981">$ ingest --stream</text>
+  <text x="95" y="138" font-family="Consolas" font-size="15" fill="#E2E8F0">Kafka</text>
+  <text x="95" y="162" font-family="Consolas" font-size="15" fill="#E2E8F0">Pub/Sub</text>
+  <text x="95" y="186" font-family="Consolas" font-size="15" fill="#E2E8F0">CDC</text>
+  <text x="95" y="210" font-family="Consolas" font-size="15" fill="#E2E8F0">Batch + Streaming</text>
+
+  <rect x="1270" y="70" width="260" height="170" rx="18" fill="#08111f" fill-opacity="0.45" stroke="#06B6D4" stroke-opacity="0.35"/>
+  <text x="1295" y="105" font-family="Consolas" font-size="20" fill="#67E8F9">AI Layer</text>
+  <text x="1295" y="138" font-family="Consolas" font-size="15" fill="#E2E8F0">Vertex AI</text>
+  <text x="1295" y="162" font-family="Consolas" font-size="15" fill="#E2E8F0">Gemini</text>
+  <text x="1295" y="186" font-family="Consolas" font-size="15" fill="#E2E8F0">Google ADK</text>
+  <text x="1295" y="210" font-family="Consolas" font-size="15" fill="#E2E8F0">AI Agents</text>
+
+  <text x="800" y="145" text-anchor="middle" font-family="Segoe UI" font-size="58" font-weight="700" fill="#F8FAFC">
+    Ananta Prasad Kabi
+  </text>
+
+  <text x="800" y="192" text-anchor="middle" font-family="Segoe UI" font-size="24" fill="#A7F3D0">
+    Senior Data Engineer • Google Cloud Professional • Agentic AI Engineer
+  </text>
+
+  <text x="800" y="235" text-anchor="middle" font-family="Consolas" font-size="18" fill="#7DD3FC">
+    Python • SQL • dbt • GCP • Databricks • Airflow • BigQuery • Docker • Vertex AI • Google ADK
+  </text>
+
+  <text x="800" y="282" text-anchor="middle" font-family="Segoe UI" font-size="18" fill="#E2E8F0">
+    Designing scalable data platforms, AI agents, and cloud-native systems that power intelligent applications.
+  </text>
+</svg>
