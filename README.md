@@ -60,7 +60,7 @@ root_agent = Agent(
 
 <!-- Data Engineering -->
 <img src="https://img.shields.io/badge/📊%20Data%20Engineering-000000?style=for-the-badge&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
@@ -73,7 +73,7 @@ root_agent = Agent(
 
 <!-- Programming -->
 <img src="https://img.shields.io/badge/💻%20Programming-000000?style=for-the-badge&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -84,7 +84,7 @@ root_agent = Agent(
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/🗄️%20Databases-000000?style=for-the-badge&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Teradata-F37421?style=for-the-badge&logo=teradata&logoColor=white"/>
@@ -94,7 +94,7 @@ root_agent = Agent(
 
 <!-- Libraries -->
 <img src="https://img.shields.io/badge/📚%20Libraries-000000?style=for-the-badge&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
@@ -102,7 +102,7 @@ root_agent = Agent(
 
 <!-- DevOps & Tools -->
 <img src="https://img.shields.io/badge/🛠️%20DevOps%20%26%20Tools-000000?style=for-the-badge&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
