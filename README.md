@@ -30,7 +30,7 @@ root_agent = Agent(
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahmoa&weight=100&pause=1000&color=13ACF7&vCenter=true&random=true&width=435&lines=Technical+Skills)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahmoa&weight=100&pause=1000&color=13ACF7&vCenter=true&random=true&width=435&lines=Technical+Skills)](https://github.com/anantkabi)
 
 <div align="left">
 
@@ -115,7 +115,7 @@ root_agent = Agent(
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahmoa&weight=100&pause=1000&color=13ACF7&vCenter=true&random=true&width=435&lines=Featured+Project)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahmoa&weight=100&pause=1000&color=13ACF7&vCenter=true&random=true&width=435&lines=Featured+Project)](https://github.com/anantkabi)
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -132,7 +132,7 @@ root_agent = Agent(
 
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahmoa&weight=100&pause=1000&color=13ACF7&vCenter=true&random=true&width=435&lines=Credentials)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahmoa&weight=100&pause=1000&color=13ACF7&vCenter=true&random=true&width=435&lines=Credentials)](https://github.com/anantkabi)
 
 <details>
 <summary><b>3x Google Cloud Certified + Apache Airflow + ClickHouse Fundamentals </b></summary>
@@ -152,7 +152,7 @@ root_agent = Agent(
 
 <div>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahmoa&weight=100&pause=1000&color=13ACF7&vCenter=true&random=true&width=435&lines=Connect+With+Me)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahmoa&weight=100&pause=1000&color=13ACF7&vCenter=true&random=true&width=435&lines=Connect+With+Me)](https://github.com/anantkabi)
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/anant-kabi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
