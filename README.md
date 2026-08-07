@@ -158,7 +158,7 @@ root_agent = Agent(
 <a href="https://www.linkedin.com/in/anant-kabi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@kabi.anant"><img src="https://img.shields.io/badge/Medium-Follow-0A66C2?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=anantkabi&label=Profile%20Views&color=1E3A8A&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=anantkabi&label=Profile%20Views&color=1E3A8A&style=for-the-badge" alt="profile views (Since Aug'26)"/>
 <br><br>
 "Learn, work and share knowledge!"
 
