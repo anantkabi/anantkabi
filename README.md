@@ -160,7 +160,7 @@ root_agent = Agent(
 
 <img src="https://komarev.com/ghpvc/?username=anantkabi&label=Profile%20Views&color=1E3A8A&style=for-the-badge" alt="profile views"/>
 <br><br>
-*"Learn, work and share knowledge!"*
+"Learn, work and share knowledge!"
 
 </div>
 
